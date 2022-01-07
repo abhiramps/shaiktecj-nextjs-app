@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "amplifyreact",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-amplifyreact-dev-173431-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/cc1a6c41265c4f19958a3a3bf20ae48d09dce4cf"
+}
